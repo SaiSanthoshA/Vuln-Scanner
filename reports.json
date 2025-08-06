@@ -1,0 +1,6 @@
+{
+    "target": "example.com",
+    "open_ports": "Sample port scan output",
+    "sql_injection_vulnerable": false,
+    "xss_vulnerable": true
+}
